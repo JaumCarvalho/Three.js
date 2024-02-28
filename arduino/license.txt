@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arduino Uno
+* source:	https://sketchfab.com/3d-models/arduino-uno-775a2bf901a74fd190f175f5f0dcf2d0
+* author:	kakaeka (https://sketchfab.com/kakaeka)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arduino Uno" (https://sketchfab.com/3d-models/arduino-uno-775a2bf901a74fd190f175f5f0dcf2d0) by kakaeka (https://sketchfab.com/kakaeka) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
